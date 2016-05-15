@@ -1,0 +1,7 @@
+/target/
+/bin/
+/.metadata/RemoteSystemsTempFiles
+/.settings
+/.classpath
+/.project
+/src/main/generated-sources
